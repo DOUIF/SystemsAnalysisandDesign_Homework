@@ -10,3 +10,7 @@
 > bow-woooowh
 
 [![英文報告](https://i.ytimg.com/vi/7VFTcmGRM-k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi8GrVy3xwIQ5jgTextZlO5FDjZQ)](https://www.youtube.com/watch?v=7VFTcmGRM-k)
+
+- [ ] 1st job
+- [ ] 2st job
+- [x] 3st job
