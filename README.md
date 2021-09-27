@@ -7,10 +7,45 @@
 
 ![可愛狗狗](https://s.yimg.com/os/en/homerun/feed_manager_auto_publish_494/ee117c4fe22149cd52eeae301eec1a17 "這邊有一隻超可愛的狗狗")
 
-> bow-woooowh
+```
+bow-woooowh
+```
 
 [![英文報告](https://i.ytimg.com/vi/7VFTcmGRM-k/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCi8GrVy3xwIQ5jgTextZlO5FDjZQ)](https://www.youtube.com/watch?v=7VFTcmGRM-k)
+
+1. First ordered list item
+2. Another item
+	- Unordered sub-list.
+3. Actual numbers don't matter, just that it's a number
+	1. Ordered sub-list
+	2. 2nd
+4. And another item.
+	* note1
+	* note2
+	* note3
 
 - [ ] 1st job
 - [ ] 2st job
 - [x] 3st job
+
+```py
+s = "Python syntax highlighting"
+print(s)
+```
+
+```js
+var s = "JavaScript syntax highlighting"
+alert(s)
+```
+| Tables        |      Are      |  Cool |
+|:------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      |   contered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
+
+| Markdown |   Less    | Pretty     |
+|:-------- |:---------:|:---------- |
+| Still    | `renders` | **nicely** |
+| 1        |     2     | 3          |
+
+
