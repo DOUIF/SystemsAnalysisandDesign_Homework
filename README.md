@@ -48,4 +48,8 @@ alert(s)
 | Still    | `renders` | **nicely** |
 | 1        |     2     | 3          |
 
-
+ # PERT/CPM
+![PERT/CPM](PERT_CPM.JPG)
+___
+ # 甘特圖
+![Gantt Chart](Gantt%20Chart.JPG)
