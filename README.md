@@ -49,7 +49,7 @@ alert(s)
 | 1        |     2     | 3          |
 
  # PERT/CPM
-![PERT/CPM](PERT_CPM.JPG)
+![PERT/CPM](https://raw.githubusercontent.com/DOUIF/SystemsAnalysisandDesign_Homework/main/PERT_CPM.JPG)
 ___
  # 甘特圖
-![Gantt Chart](Gantt%20Chart.JPG)
+![Gantt Chart](https://raw.githubusercontent.com/DOUIF/SystemsAnalysisandDesign_Homework/main/Gantt%20Chart.JPG)
